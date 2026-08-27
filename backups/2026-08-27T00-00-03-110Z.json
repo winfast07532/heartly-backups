@@ -1,0 +1,317 @@
+{
+  "takenAt": "2026-08-27T00:00:03.110Z",
+  "counts": {
+    "notes": 0,
+    "surprises": 15,
+    "letters": 0,
+    "pts": 0,
+    "streak": 1,
+    "bestStreak": 1,
+    "achievements": 0,
+    "shopItemsOwned": 0,
+    "shopItemsTotal": 20,
+    "memories": 0,
+    "goals": 0,
+    "dateNightIdeas": 0,
+    "sentLetters": 0,
+    "loveLangsSet": true
+  },
+  "data": {
+    "ED": {
+      "notes": [],
+      "letters": [],
+      "surprises": [
+        {
+          "i": "gift",
+          "l": "1",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "flower-bouquet"
+        },
+        {
+          "i": "gift",
+          "l": "2",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "growing-flower"
+        },
+        {
+          "i": "gift",
+          "l": "3",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "petal-shower"
+        },
+        {
+          "i": "gift",
+          "l": "4",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "gift-unwrap"
+        },
+        {
+          "i": "gift",
+          "l": "5",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "balloon-pop"
+        },
+        {
+          "i": "gift",
+          "l": "6",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "floating-hearts"
+        },
+        {
+          "i": "gift",
+          "l": "7",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "fireworks-names"
+        },
+        {
+          "i": "gift",
+          "l": "3 YEARS SPECIAL",
+          "lk": true,
+          "read": false,
+          "price": 0,
+          "surpriseType": "confetti-cannon"
+        },
+        {
+          "i": "gift",
+          "l": "8",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "scratch-card"
+        },
+        {
+          "i": "gift",
+          "l": "9",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "music-box"
+        },
+        {
+          "i": "gift",
+          "l": "10",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "snow-globe"
+        },
+        {
+          "i": "gift",
+          "l": "11",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "candle-blowout"
+        },
+        {
+          "i": "gift",
+          "l": "12",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "popup-card"
+        },
+        {
+          "i": "gift",
+          "l": "13",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "firefly-jar"
+        },
+        {
+          "i": "gift",
+          "l": "14",
+          "lk": true,
+          "read": false,
+          "price": 750,
+          "surpriseType": "wax-seal"
+        }
+      ]
+    },
+    "txLog": [],
+    "ptsLog": [],
+    "ptsVal": 0,
+    "anaMood": {
+      "msg": "So loved 💕",
+      "time": "Just now",
+      "emoji": "🥰",
+      "label": "Loved",
+      "history": [
+        {
+          "time": "Yesterday",
+          "emoji": "😊",
+          "label": "Happy"
+        },
+        {
+          "time": "2 days ago",
+          "emoji": "💭",
+          "label": "Missing"
+        },
+        {
+          "time": "3 days ago",
+          "emoji": "🥰",
+          "label": "Loved"
+        }
+      ]
+    },
+    "notifLog": [],
+    "shopMood": false,
+    "bestStreak": 1,
+    "favourites": [
+      {
+        "sig": "— Always yours, Robert 🌹",
+        "body": "There are moments in every ordinary day — a misheard lyric, a clumsy coincidence, something small and weightless — when my first instinct is still to turn and tell you.<br><br>I miss your laugh specifically. Not just laughter — <em>yours</em>. The way it starts reluctant, like it's trying to stay small, and then escapes you entirely.<br><br>Save this for a quiet evening. Read it slowly. You deserve that unhurried kind of moment.",
+        "from": "From Robert",
+        "title": "Missing Your Laugh",
+        "savedDate": "May 15"
+      },
+      {
+        "sig": "— Under the same sky, Robert ✨",
+        "body": "Last night I counted three stars before the clouds came. Three felt like enough.<br><br>The first I named after your courage — the quiet kind that simply shows up. The second, your kindness. The third — the sound of my name in your voice. The specific way you say it. Like it matters.<br><br>Three stars. More than enough.",
+        "from": "From Robert",
+        "title": "Counting Stars",
+        "savedDate": "May 12"
+      },
+      {
+        "sig": "— Thinking of you always, Robert ☀️",
+        "body": "Saturday mornings used to feel like waiting for something that never quite arrived.<br><br>Now they feel like potential. Like the specific kind of quiet that's not empty — it's holding its breath.<br><br>Somewhere across the distance you're doing something ordinary. And somehow that's enough to make Saturday mornings feel like the best part of the week.",
+        "from": "From Robert",
+        "title": "Saturday Morning",
+        "savedDate": "May 10"
+      }
+    ],
+    "notifPrefs": {
+      "points": true,
+      "streak": true,
+      "letters": true,
+      "surprise": true,
+      "goodnight": true,
+      "milestone": true
+    },
+    "robertMood": {
+      "time": null,
+      "emoji": null,
+      "label": null
+    },
+    "updatesLog": [],
+    "activeTheme": "rose",
+    "anaMessages": [],
+    "anaWishList": [],
+    "loveMapPins": [],
+    "sentLetters": [],
+    "shopLoveMap": false,
+    "shopVIPPass": false,
+    "lastOpenDate": 1787788249111,
+    "shopWishList": false,
+    "themeUnlocks": {
+      "mono": false,
+      "rose": true,
+      "royal": false,
+      "golden": false,
+      "orange": false,
+      "sakura": false,
+      "crimson": false,
+      "emerald": false,
+      "starlight": false,
+      "turquoise": false
+    },
+    "currentStreak": 1,
+    "shopCountdown": false,
+    "shopDateNight": false,
+    "shopGoodNight": false,
+    "shopHotStreak": false,
+    "shopLuckySpin": false,
+    "shopMemoryJar": false,
+    "totalMoodsSet": 0,
+    "anaSuggestions": [],
+    "blastBestScore": 0,
+    "dateNightIdeas": [],
+    "hasSeenWelcome": true,
+    "memoryJarItems": [],
+    "photoOfDayData": null,
+    "robertWishList": [],
+    "shopCoupleSong": null,
+    "shopDailyBonus": false,
+    "shopPhotoOfDay": false,
+    "shopWriteToRob": false,
+    "totalPtsEarned": 0,
+    "coupleGoalsList": [],
+    "shopCoupleGoals": false,
+    "totalLuckySpins": 0,
+    "blastGamesPlayed": 0,
+    "clickerBestScore": 0,
+    "currentLoveLangs": [
+      {
+        "name": "Words of Affirmation",
+        "color": "linear-gradient(90deg,#a02050,var(--rose))",
+        "value": 85,
+        "default": 85
+      },
+      {
+        "name": "Quality Time",
+        "color": "linear-gradient(90deg,#b08020,var(--gold))",
+        "value": 72,
+        "default": 72
+      },
+      {
+        "name": "Acts of Service",
+        "color": "linear-gradient(90deg,#208060,var(--mint))",
+        "value": 60,
+        "default": 60
+      },
+      {
+        "name": "Receiving Gifts",
+        "color": "linear-gradient(90deg,#6030a0,#c8a8f0)",
+        "value": 48,
+        "default": 48
+      },
+      {
+        "name": "Physical Touch",
+        "color": "linear-gradient(90deg,#a04060,#e898b8)",
+        "value": 35,
+        "default": 35
+      }
+    ],
+    "everChangedTheme": false,
+    "puzzleOfWeekData": null,
+    "shopDailyGiftBox": false,
+    "shopPuzzleOfWeek": false,
+    "shopStreakShield": false,
+    "totalLettersSent": 0,
+    "dailyQuestionData": null,
+    "shopCountdownData": null,
+    "shopDailyQuestion": false,
+    "shopGoodNightTime": "22:00",
+    "shopVIPPassExpiry": null,
+    "achievementRewards": {},
+    "blastLifetimeScore": 0,
+    "clickerGamesPlayed": 0,
+    "earnedAchievements": {},
+    "shopAnniversaryCard": false,
+    "totalBonusesClaimed": 0,
+    "clickerLifetimeScore": 0,
+    "relationshipTimeline": [],
+    "streakShieldUsedDate": null,
+    "totalGiftBoxesOpened": 0,
+    "relationshipStartDate": null,
+    "shopLuckySpinLastUsed": null,
+    "goodnightLetterNextDate": null,
+    "shopDailyGiftLastClaimed": null,
+    "shopDailyBonusLastClaimed": null
+  }
+}
