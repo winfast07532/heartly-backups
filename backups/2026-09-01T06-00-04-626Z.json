@@ -1,0 +1,2440 @@
+{
+  "takenAt": "2026-09-01T06:00:04.626Z",
+  "counts": {
+    "notes": 31,
+    "surprises": 15,
+    "letters": 2,
+    "pts": 5009,
+    "streak": 22,
+    "bestStreak": 22,
+    "achievements": 45,
+    "shopItemsOwned": 19,
+    "shopItemsTotal": 20,
+    "memories": 0,
+    "goals": 0,
+    "dateNightIdeas": 0,
+    "sentLetters": 32,
+    "loveLangsSet": true
+  },
+  "data": {
+    "ED": {
+      "notes": [
+        {
+          "i": "note",
+          "l": "Short Note\n1",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Te iubesc enorm de mult ma iubita",
+            "s": "— 🩷",
+            "t": "Short Note 1"
+          },
+          "unlockedAt": 1787948991529
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n2",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Esti cea mai importanta pentru mine",
+            "s": "— 🩷",
+            "t": "Short Note 2"
+          },
+          "unlockedAt": 1787949018633
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n3",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Tin cel mai mult la tine",
+            "s": "— 🩷",
+            "t": "Short Note 3"
+          },
+          "unlockedAt": 1787949046763
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n4",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Sunt cel mai mandru de tine",
+            "s": "— 🩷",
+            "t": "Short Note 4"
+          },
+          "unlockedAt": 1787949081540
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n5",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Esti si vei fi mereu in inima mea",
+            "s": "— 🩷",
+            "t": "Short Note 5"
+          },
+          "unlockedAt": 1787949107029
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n6",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Ma bucur ca ai intrat in viata mea",
+            "s": "— 🩷",
+            "t": "Short Note 6"
+          },
+          "unlockedAt": 1787949159280
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n7",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Esti si vei fi mereu in inima mea",
+            "s": "— 🩷",
+            "t": "Short Note 7"
+          },
+          "unlockedAt": 1787949187807
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n8",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "De abia astept sa ne incepem viitorul de adulti impreuna",
+            "s": "— 🩷",
+            "t": "Short Note 8"
+          },
+          "unlockedAt": 1787949217723
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n9",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Esti cea mai buna iubita din lume",
+            "s": "— 🩷",
+            "t": "Short Note 9"
+          },
+          "unlockedAt": 1787949254098
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n10",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "In ochii mei vei fi mereu perfecta",
+            "s": "— 🩷",
+            "t": "Short Note 10"
+          },
+          "unlockedAt": 1787949278671
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n11",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Tu pentru mine insemni acasa",
+            "s": "— 🩷",
+            "t": "Short Note 11"
+          },
+          "unlockedAt": 1787949341926
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n12",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Te voi iubi mereu, pana la capatul vietii, si chiar si dupa",
+            "s": "— 🩷",
+            "t": "Short Note 12"
+          },
+          "unlockedAt": 1787949374885
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n13",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Ma faci cel mai fericit om din lume",
+            "s": "— 🩷",
+            "t": "Short Note 13"
+          },
+          "unlockedAt": 1787949460994
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n14",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Ai cele mai juicy buze",
+            "s": "— 🩷",
+            "t": "Short Note 14"
+          },
+          "unlockedAt": 1787949522747
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n15",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Ai cei mai frumosi ochi",
+            "s": "— 🩷",
+            "t": "Short Note 15"
+          },
+          "unlockedAt": 1787949567444
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n16",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Iubesc parul tau blond si frumos",
+            "s": "— 🩷",
+            "t": "Short Note 16"
+          },
+          "unlockedAt": 1787954756615
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n17",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Chiar si dupa ce abia ne vedem, mi se face dor de tine instant",
+            "s": "— 🩷",
+            "t": "Short Note 17"
+          },
+          "unlockedAt": 1787954788103
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n18",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Porti inima mea mereu la gat",
+            "s": "— 🩷",
+            "t": "Short Note 18"
+          },
+          "unlockedAt": 1787954825165
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n19",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Sunt aici langa tine mereu",
+            "s": "— 🩷",
+            "t": "Short Note 19"
+          },
+          "unlockedAt": 1787954847161
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n20",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Am cea mai mare incredere in tine",
+            "s": "— 🩷",
+            "t": "Short Note 20"
+          },
+          "unlockedAt": 1787954937984
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n21",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Imi doresc sa imi petrec tot timpul din lume alaturi de tine",
+            "s": "— 🩷",
+            "t": "Short Note 21"
+          },
+          "unlockedAt": 1787954969701
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n22",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "O sa avem cei mai frumosi copii",
+            "s": "— 🩷",
+            "t": "Short Note 22"
+          },
+          "unlockedAt": 1787954996291
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n23",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Mereu cand ma uit in ochii tai, imi imaginez viitorul nostru impreuna",
+            "s": "— 🩷",
+            "t": "Short Note 23"
+          },
+          "unlockedAt": 1787955027789
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n24",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Imi place cel mai mult cand ma tii in brate",
+            "s": "— 🩷",
+            "t": "Short Note 24"
+          },
+          "unlockedAt": 1787955183233
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n25",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Iubesc cand te joci in parul meu",
+            "s": "— 🩷",
+            "t": "Short Note 25"
+          },
+          "unlockedAt": 1787955208563
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n26",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Imi doresc sa am mereu grija de tine",
+            "s": "— 🩷",
+            "t": "Short Note 26"
+          },
+          "unlockedAt": 1787955231660
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n27",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Iubirea mea pentru tine create din ce in ce mai mult in fiecare zi",
+            "s": "— 🩷",
+            "t": "Short Note 27"
+          },
+          "unlockedAt": 1787955255584
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n28",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Imi pare rau pentru toate datile in care te am suparat",
+            "s": "— 🩷",
+            "t": "Short Note 28"
+          },
+          "unlockedAt": 1787955282133
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n29",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Stiu ca uneori te mai enervez, dar te iubesc din tot sufletul meu",
+            "s": "— 🩷",
+            "t": "Short Note 29"
+          },
+          "unlockedAt": 1787955308618
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n30",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Ma simt ca un copil mic prin preajma ta",
+            "s": "— 🩷",
+            "t": "Short Note 30"
+          },
+          "unlockedAt": 1787955333466
+        },
+        {
+          "i": "note",
+          "l": "Short Note\n31",
+          "lk": false,
+          "read": true,
+          "price": 100,
+          "letter": {
+            "b": "Ma faci cel mai fericit",
+            "s": "— 🩷",
+            "t": "Short Note 31"
+          },
+          "unlockedAt": 1788231189535,
+          "previewOnce": false,
+          "previewUsed": false
+        }
+      ],
+      "letters": [
+        {
+          "i": "letter",
+          "l": "Love Letter\n1",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "Hello iubita, asta e prima scrisoare care ti o scriu din nou, din cauza problemelor care au fost cu aplicatia. Imi doresc in acest love letter sa mi exprim toata iubirea mea fata de tine. Te iubesc pana la infinit si inapoi de un infinit de lri ma iubita si sper ca stii asta, esti perfecta din orice punct de vedere, esti frumoasa, esti isteata, absolut tot este perfect la tine, parul tau, ochii tai, buzele tale, genele sprancenele tot, de sus pana jos esti perfecta si asa vei fi mereu in ochii mei. Esti iubitoare si grijulie, esti tot ceea ce si ar dori orice baiat, iar eu sunt cel mai norocos sa te am, esti cea mai buna iubita din toata lumea si oricine si ar dori o fata ca tine, esti absolut perfecta. Imi doresc sa ti spun ca voi fi aici alaturi pentru tine mereu, si la bine si la rau, asa cum am fost si pana acum, asa voi fi mereu, te voi sustine la fel de mult ca pana acum, si voi fi mereu cel mai mandru de tine, pentru ca ma faci mereu mandru. Te iubesc, meriti doar iubire si eu sunt aici sa ti ofer toata iubirea pe care o pot oferi, si incerc sa ofer din ce in ce mai multa mereu, in fiecare zi. Stiu ca mai avem problemele noastre, dar ma bucur ca mereu le putem rezolva si ca mereu ajungem sa ne impacam. Insemni totul pentru mine si tin cel mai mult la tine, tin la tine ca la ochii din cap si as face orice pentru tine, as cobora si luna pentru tine daca as putea. Te iubesc.",
+            "s": "— Love you!",
+            "t": "Love Letter 1"
+          },
+          "unlockedAt": 1788225310541
+        },
+        {
+          "i": "letter",
+          "l": "Love Letter\n2",
+          "lk": false,
+          "read": true,
+          "letter": {
+            "b": "In aceasta scrisoare, asta fiind a doua pe care o rescriu dar nu cu acelasi continut pentru ca nu il mai tin minte, imi doresc sa spun niste chestii importante. Vreau sa imi cer scuze pentru toate momentele proaste care le creez, pentru toate datile in care poate te am ranit, in care te am facut sa te simti nasol sau sa plangi, in adancul sufletului meu iti doresc doar binele, mi l am dorit mereu si mi l voi dori in continuare mereu. Incerc mereu sa fac totul bine, sa te fac fericita si sa te simti iubita si in siguranta, stiu ca mai fac greseli dar imi doresc doar sa ti pun zambetul pe buze. Am gresit de multe ori dar ma bucur ca mereu am gasit o cale de a rezolva, si de a nu a ne da batuti. Esti cea mai buna iubita si sunt cel mai norocos om din toata lumea sa te am. Te iubesc din tot sufletul meu si inca o data imi cer scuze pentru toate datile in care poate nu am aratat ca o fac destul, dar sa stii ca eu tot o fac, chiar daca uneori n am arata si o fac chiar mult mai mult decat crezi. Insemni absolut totul pentru mine sinvei fi mereu pe primul loc. Mereu vei purta inima mea la gat, prin acel lantisor, si o vei purta mereu si langa inima ta si sper ca simti asta. Te iubesc cel mai mult ma iubita si te voi iubi mereu, pana la adanci batraneti, pentru totdeauna. Ma faci cel mai fericit!",
+            "s": "— Love you!",
+            "t": "Love Letter 2"
+          },
+          "unlockedAt": 1788225939741
+        }
+      ],
+      "surprises": [
+        {
+          "i": "gift",
+          "l": "1",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833522627,
+          "surpriseType": "flower-bouquet"
+        },
+        {
+          "i": "gift",
+          "l": "2",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833525723,
+          "surpriseType": "growing-flower"
+        },
+        {
+          "i": "gift",
+          "l": "3",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833528818,
+          "surpriseType": "petal-shower"
+        },
+        {
+          "i": "gift",
+          "l": "4",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833532656,
+          "surpriseType": "gift-unwrap"
+        },
+        {
+          "i": "gift",
+          "l": "5",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833535156,
+          "surpriseType": "balloon-pop"
+        },
+        {
+          "i": "gift",
+          "l": "6",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833538148,
+          "surpriseType": "floating-hearts"
+        },
+        {
+          "i": "gift",
+          "l": "7",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833547272,
+          "surpriseType": "fireworks-names"
+        },
+        {
+          "i": "gift",
+          "l": "3 YEARS SPECIAL",
+          "lk": false,
+          "read": true,
+          "price": 0,
+          "unlockedAt": 1787833543821,
+          "surpriseType": "confetti-cannon"
+        },
+        {
+          "i": "gift",
+          "l": "8",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833541144,
+          "surpriseType": "scratch-card"
+        },
+        {
+          "i": "gift",
+          "l": "9",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833559600,
+          "surpriseType": "music-box"
+        },
+        {
+          "i": "gift",
+          "l": "10",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833556166,
+          "surpriseType": "snow-globe"
+        },
+        {
+          "i": "gift",
+          "l": "11",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833553537,
+          "surpriseType": "candle-blowout"
+        },
+        {
+          "i": "gift",
+          "l": "12",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833565883,
+          "surpriseType": "popup-card"
+        },
+        {
+          "i": "gift",
+          "l": "13",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833563337,
+          "surpriseType": "firefly-jar"
+        },
+        {
+          "i": "gift",
+          "l": "14",
+          "lk": false,
+          "read": true,
+          "price": 750,
+          "unlockedAt": 1787833550818,
+          "surpriseType": "wax-seal"
+        }
+      ]
+    },
+    "txLog": [
+      {
+        "ts": 1788231504260,
+        "amt": "+500",
+        "icon": "🎰",
+        "type": "earn",
+        "title": "Lucky Spin win"
+      },
+      {
+        "ts": 1788231500349,
+        "amt": "+200",
+        "icon": "🎁",
+        "type": "earn",
+        "title": "Daily Gift Box opened"
+      },
+      {
+        "ts": 1788231499500,
+        "amt": "+50",
+        "icon": "⚡",
+        "type": "earn",
+        "title": "Daily Bonus claimed"
+      },
+      {
+        "ts": 1788231189534,
+        "amt": "-100",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"Short Note 31\""
+      },
+      {
+        "ts": 1788231184528,
+        "amt": "+100",
+        "icon": "🔥",
+        "type": "earn",
+        "title": "Hot Streak Bonus — 7 day streak!"
+      },
+      {
+        "ts": 1788125437426,
+        "amt": "+100",
+        "icon": "🎰",
+        "type": "earn",
+        "title": "Lucky Spin win"
+      },
+      {
+        "ts": 1788125434030,
+        "amt": "+150",
+        "icon": "🎁",
+        "type": "earn",
+        "title": "Daily Gift Box opened"
+      },
+      {
+        "ts": 1788125433068,
+        "amt": "+50",
+        "icon": "⚡",
+        "type": "earn",
+        "title": "Daily Bonus claimed"
+      },
+      {
+        "ts": 1788125429720,
+        "amt": "+100",
+        "icon": "🔥",
+        "type": "earn",
+        "title": "Hot Streak Bonus — 7 day streak!"
+      },
+      {
+        "ts": 1788037320552,
+        "amt": "+100",
+        "icon": "🎰",
+        "type": "earn",
+        "title": "Lucky Spin win"
+      },
+      {
+        "ts": 1788037316959,
+        "amt": "+100",
+        "icon": "🎁",
+        "type": "earn",
+        "title": "Daily Gift Box opened"
+      },
+      {
+        "ts": 1788037315611,
+        "amt": "+50",
+        "icon": "⚡",
+        "type": "earn",
+        "title": "Daily Bonus claimed"
+      },
+      {
+        "ts": 1788037306752,
+        "amt": "+100",
+        "icon": "🔥",
+        "type": "earn",
+        "title": "Hot Streak Bonus — 7 day streak!"
+      },
+      {
+        "ts": 1788005814104,
+        "amt": "+50",
+        "icon": "🎰",
+        "type": "earn",
+        "title": "Lucky Spin win"
+      },
+      {
+        "ts": 1788005811278,
+        "amt": "+100",
+        "icon": "🎁",
+        "type": "earn",
+        "title": "Daily Gift Box opened"
+      },
+      {
+        "ts": 1788005809450,
+        "amt": "+50",
+        "icon": "⚡",
+        "type": "earn",
+        "title": "Daily Bonus claimed"
+      },
+      {
+        "ts": 1788005798429,
+        "amt": "+34",
+        "icon": "💖",
+        "type": "earn",
+        "title": "Love Clicker: 133 pts scored"
+      },
+      {
+        "ts": 1788005778206,
+        "amt": "-300",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Clicker skin: ck_combo_sparkle"
+      },
+      {
+        "ts": 1788005777973,
+        "amt": "-300",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Clicker skin: ck_combo_trail"
+      },
+      {
+        "ts": 1788005776559,
+        "amt": "-350",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Clicker skin: ck_heart_rainbow"
+      },
+      {
+        "ts": 1788005776276,
+        "amt": "-350",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Clicker skin: ck_heart_diamond"
+      },
+      {
+        "ts": 1788005729759,
+        "amt": "-300",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Blast skin: lb_fx_confetti"
+      },
+      {
+        "ts": 1788005729526,
+        "amt": "-300",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Blast skin: lb_fx_sparkle"
+      },
+      {
+        "ts": 1788005728395,
+        "amt": "-450",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Blast skin: lb_shape_stars"
+      },
+      {
+        "ts": 1788005728146,
+        "amt": "-450",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Blast skin: lb_shape_hearts"
+      },
+      {
+        "ts": 1788005726648,
+        "amt": "-350",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Blast skin: lb_color_rosegold"
+      },
+      {
+        "ts": 1788005726347,
+        "amt": "-350",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Blast skin: lb_color_starry"
+      },
+      {
+        "ts": 1788005725718,
+        "amt": "-350",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Love Blast skin: lb_color_candy"
+      },
+      {
+        "ts": 1787966337399,
+        "amt": "+100",
+        "icon": "🔥",
+        "type": "earn",
+        "title": "Hot Streak Bonus — 7 day streak!"
+      },
+      {
+        "ts": 1787955208564,
+        "amt": "+150",
+        "icon": "📬",
+        "type": "earn",
+        "title": "25 Letters unlocked"
+      },
+      {
+        "ts": 1787940193142,
+        "amt": "+50",
+        "icon": "🎰",
+        "type": "earn",
+        "title": "Lucky Spin win"
+      },
+      {
+        "ts": 1787940188596,
+        "amt": "+150",
+        "icon": "🎁",
+        "type": "earn",
+        "title": "Daily Gift Box opened"
+      },
+      {
+        "ts": 1787940186406,
+        "amt": "+50",
+        "icon": "⚡",
+        "type": "earn",
+        "title": "Daily Bonus claimed"
+      },
+      {
+        "ts": 1787904579148,
+        "amt": "+100",
+        "icon": "🔥",
+        "type": "earn",
+        "title": "Hot Streak Bonus — 7 day streak!"
+      },
+      {
+        "ts": 1787833565882,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"12\""
+      },
+      {
+        "ts": 1787833563336,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"13\""
+      },
+      {
+        "ts": 1787833559599,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"9\""
+      },
+      {
+        "ts": 1787833556166,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"10\""
+      },
+      {
+        "ts": 1787833553536,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"11\""
+      },
+      {
+        "ts": 1787833550817,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"14\""
+      },
+      {
+        "ts": 1787833547271,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"7\""
+      },
+      {
+        "ts": 1787833543820,
+        "amt": "-1000",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"3 YEARS SPECIAL\""
+      },
+      {
+        "ts": 1787833541143,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"8\""
+      },
+      {
+        "ts": 1787833538147,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"6\""
+      },
+      {
+        "ts": 1787833535155,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"5\""
+      },
+      {
+        "ts": 1787833532655,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"4\""
+      },
+      {
+        "ts": 1787833528818,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"3\""
+      },
+      {
+        "ts": 1787833525722,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"2\""
+      },
+      {
+        "ts": 1787833522626,
+        "amt": "-750",
+        "icon": "🔓",
+        "type": "spend",
+        "title": "Letter unlocked — \"1\""
+      },
+      {
+        "ts": 1787833514250,
+        "amt": "+5000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787833513399,
+        "amt": "+5000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787833019094,
+        "amt": "+200",
+        "icon": "🎰",
+        "type": "earn",
+        "title": "Lucky Spin win"
+      },
+      {
+        "ts": 1787833015714,
+        "amt": "+75",
+        "icon": "🎁",
+        "type": "earn",
+        "title": "Daily Gift Box opened"
+      },
+      {
+        "ts": 1787833014869,
+        "amt": "+50",
+        "icon": "⚡",
+        "type": "earn",
+        "title": "Daily Bonus claimed"
+      },
+      {
+        "ts": 1787832961529,
+        "amt": "+100",
+        "icon": "🔥",
+        "type": "earn",
+        "title": "Hot Streak Bonus — 7 day streak!"
+      },
+      {
+        "ts": 1787770478491,
+        "amt": "-2500",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Crimson Ember theme unlocked"
+      },
+      {
+        "ts": 1787770478099,
+        "amt": "-2300",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Noir & Ivory theme unlocked"
+      },
+      {
+        "ts": 1787770477717,
+        "amt": "-2000",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Turquoise Tide theme unlocked"
+      },
+      {
+        "ts": 1787770475865,
+        "amt": "+5000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787770467486,
+        "amt": "-1800",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Emerald Garden theme unlocked"
+      },
+      {
+        "ts": 1787770467111,
+        "amt": "-2000",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Sunset Orange theme unlocked"
+      },
+      {
+        "ts": 1787770466194,
+        "amt": "-2500",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Starlight theme unlocked"
+      },
+      {
+        "ts": 1787770465104,
+        "amt": "-2200",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Golden Hour theme unlocked"
+      },
+      {
+        "ts": 1787770464817,
+        "amt": "-1100",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Sakura Pink theme unlocked"
+      },
+      {
+        "ts": 1787770463309,
+        "amt": "+5000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787770448689,
+        "amt": "+50",
+        "icon": "🎨",
+        "type": "earn",
+        "title": "New Look unlocked"
+      },
+      {
+        "ts": 1787770448689,
+        "amt": "-1400",
+        "icon": "🎨",
+        "type": "spend",
+        "title": "Royal Blue theme unlocked"
+      },
+      {
+        "ts": 1787770433028,
+        "amt": "+300",
+        "icon": "👑",
+        "type": "earn",
+        "title": "Everything, Always unlocked"
+      },
+      {
+        "ts": 1787770433028,
+        "amt": "+200",
+        "icon": "📈",
+        "type": "earn",
+        "title": "Completionist unlocked"
+      },
+      {
+        "ts": 1787770433027,
+        "amt": "+150",
+        "icon": "🎨",
+        "type": "earn",
+        "title": "Curator unlocked"
+      },
+      {
+        "ts": 1787770433027,
+        "amt": "+100",
+        "icon": "🛍️",
+        "type": "earn",
+        "title": "Collector unlocked"
+      },
+      {
+        "ts": 1787770433027,
+        "amt": "+50",
+        "icon": "🛍️",
+        "type": "earn",
+        "title": "First Unlock unlocked"
+      },
+      {
+        "ts": 1787770413291,
+        "amt": "+5000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787770413289,
+        "amt": "+250",
+        "icon": "💎",
+        "type": "earn",
+        "title": "10,000 Points Earned unlocked"
+      },
+      {
+        "ts": 1787770406864,
+        "amt": "+100",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787770405024,
+        "amt": "+5000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787770405022,
+        "amt": "+150",
+        "icon": "💰",
+        "type": "earn",
+        "title": "5,000 Points Earned unlocked"
+      },
+      {
+        "ts": 1787770401417,
+        "amt": "+1000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787770401416,
+        "amt": "+100",
+        "icon": "💰",
+        "type": "earn",
+        "title": "2,500 Points Earned unlocked"
+      },
+      {
+        "ts": 1787770401227,
+        "amt": "+1000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787770401065,
+        "amt": "+1000",
+        "icon": "🛠️",
+        "type": "earn",
+        "title": "Dev: Points added"
+      },
+      {
+        "ts": 1787770401064,
+        "amt": "+75",
+        "icon": "🪙",
+        "type": "earn",
+        "title": "1,000 Points Earned unlocked"
+      },
+      {
+        "ts": 1787770401063,
+        "amt": "+50",
+        "icon": "🪙",
+        "type": "earn",
+        "title": "500 Points Earned unlocked"
+      },
+      {
+        "ts": 1787769759975,
+        "amt": "+50",
+        "icon": "🎭",
+        "type": "earn",
+        "title": "Mood Ring unlocked"
+      },
+      {
+        "ts": 1787769757100,
+        "amt": "+50",
+        "icon": "💬",
+        "type": "earn",
+        "title": "In Sync unlocked"
+      }
+    ],
+    "ptsLog": [
+      {
+        "ts": 1787769757100,
+        "amt": 50
+      },
+      {
+        "ts": 1787769759974,
+        "amt": 50
+      },
+      {
+        "ts": 1787770401063,
+        "amt": 1000
+      },
+      {
+        "ts": 1787770401063,
+        "amt": 50
+      },
+      {
+        "ts": 1787770401064,
+        "amt": 75
+      },
+      {
+        "ts": 1787770401227,
+        "amt": 1000
+      },
+      {
+        "ts": 1787770401415,
+        "amt": 1000
+      },
+      {
+        "ts": 1787770401415,
+        "amt": 100
+      },
+      {
+        "ts": 1787770405022,
+        "amt": 5000
+      },
+      {
+        "ts": 1787770405022,
+        "amt": 150
+      },
+      {
+        "ts": 1787770406863,
+        "amt": 100
+      },
+      {
+        "ts": 1787770413289,
+        "amt": 5000
+      },
+      {
+        "ts": 1787770413289,
+        "amt": 250
+      },
+      {
+        "ts": 1787770433027,
+        "amt": 50
+      },
+      {
+        "ts": 1787770433027,
+        "amt": 100
+      },
+      {
+        "ts": 1787770433027,
+        "amt": 150
+      },
+      {
+        "ts": 1787770433028,
+        "amt": 200
+      },
+      {
+        "ts": 1787770433028,
+        "amt": 300
+      },
+      {
+        "ts": 1787770448689,
+        "amt": -1400
+      },
+      {
+        "ts": 1787770448689,
+        "amt": 50
+      },
+      {
+        "ts": 1787770463309,
+        "amt": 5000
+      },
+      {
+        "ts": 1787770464817,
+        "amt": -1100
+      },
+      {
+        "ts": 1787770465103,
+        "amt": -2200
+      },
+      {
+        "ts": 1787770466194,
+        "amt": -2500
+      },
+      {
+        "ts": 1787770467111,
+        "amt": -2000
+      },
+      {
+        "ts": 1787770467486,
+        "amt": -1800
+      },
+      {
+        "ts": 1787770475865,
+        "amt": 5000
+      },
+      {
+        "ts": 1787770477717,
+        "amt": -2000
+      },
+      {
+        "ts": 1787770478099,
+        "amt": -2300
+      },
+      {
+        "ts": 1787770478490,
+        "amt": -2500
+      },
+      {
+        "ts": 1787832961528,
+        "amt": 100
+      },
+      {
+        "ts": 1787833014868,
+        "amt": 50
+      },
+      {
+        "ts": 1787833015713,
+        "amt": 75
+      },
+      {
+        "ts": 1787833019094,
+        "amt": 200
+      },
+      {
+        "ts": 1787833513399,
+        "amt": 5000
+      },
+      {
+        "ts": 1787833514250,
+        "amt": 5000
+      },
+      {
+        "ts": 1787833522625,
+        "amt": -750
+      },
+      {
+        "ts": 1787833525722,
+        "amt": -750
+      },
+      {
+        "ts": 1787833528817,
+        "amt": -750
+      },
+      {
+        "ts": 1787833532655,
+        "amt": -750
+      },
+      {
+        "ts": 1787833535155,
+        "amt": -750
+      },
+      {
+        "ts": 1787833538147,
+        "amt": -750
+      },
+      {
+        "ts": 1787833541143,
+        "amt": -750
+      },
+      {
+        "ts": 1787833543820,
+        "amt": -1000
+      },
+      {
+        "ts": 1787833547271,
+        "amt": -750
+      },
+      {
+        "ts": 1787833550816,
+        "amt": -750
+      },
+      {
+        "ts": 1787833553536,
+        "amt": -750
+      },
+      {
+        "ts": 1787833556165,
+        "amt": -750
+      },
+      {
+        "ts": 1787833559599,
+        "amt": -750
+      },
+      {
+        "ts": 1787833563336,
+        "amt": -750
+      },
+      {
+        "ts": 1787833565882,
+        "amt": -750
+      },
+      {
+        "ts": 1787904579148,
+        "amt": 100
+      },
+      {
+        "ts": 1787940186405,
+        "amt": 50
+      },
+      {
+        "ts": 1787940188596,
+        "amt": 150
+      },
+      {
+        "ts": 1787940193141,
+        "amt": 50
+      },
+      {
+        "ts": 1787955208564,
+        "amt": 150
+      },
+      {
+        "ts": 1787966337398,
+        "amt": 100
+      },
+      {
+        "ts": 1788005798430,
+        "amt": 34
+      },
+      {
+        "ts": 1788005809449,
+        "amt": 50
+      },
+      {
+        "ts": 1788005811278,
+        "amt": 100
+      },
+      {
+        "ts": 1788005814103,
+        "amt": 50
+      },
+      {
+        "ts": 1788037306752,
+        "amt": 100
+      },
+      {
+        "ts": 1788037315611,
+        "amt": 50
+      },
+      {
+        "ts": 1788037316958,
+        "amt": 100
+      },
+      {
+        "ts": 1788037320551,
+        "amt": 100
+      },
+      {
+        "ts": 1788125429720,
+        "amt": 100
+      },
+      {
+        "ts": 1788125433068,
+        "amt": 50
+      },
+      {
+        "ts": 1788125434030,
+        "amt": 150
+      },
+      {
+        "ts": 1788125437426,
+        "amt": 100
+      },
+      {
+        "ts": 1788231184528,
+        "amt": 100
+      },
+      {
+        "ts": 1788231189534,
+        "amt": -100
+      },
+      {
+        "ts": 1788231499500,
+        "amt": 50
+      },
+      {
+        "ts": 1788231500349,
+        "amt": 200
+      },
+      {
+        "ts": 1788231504260,
+        "amt": 500
+      }
+    ],
+    "ptsVal": 5009,
+    "anaMood": {
+      "msg": "Happy today ✨",
+      "time": "Just now",
+      "emoji": "😊",
+      "label": "Happy",
+      "history": [
+        {
+          "time": "Just now",
+          "emoji": "😊",
+          "label": "Happy"
+        },
+        {
+          "time": "Just now",
+          "emoji": "😢",
+          "label": "Sad"
+        },
+        {
+          "time": "Yesterday",
+          "emoji": "😊",
+          "label": "Happy"
+        },
+        {
+          "time": "2 days ago",
+          "emoji": "💭",
+          "label": "Missing"
+        },
+        {
+          "time": "3 days ago",
+          "emoji": "🥰",
+          "label": "Loved"
+        }
+      ]
+    },
+    "notifLog": [
+      {
+        "id": "n17882259397440qjkh",
+        "ts": 1788225939744,
+        "ico": "💌",
+        "sub": "\"Love Letter 2\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— Love you!",
+        "letterBody": "In aceasta scrisoare, asta fiind a doua pe care o rescriu dar nu cu acelasi continut pentru ca nu il mai tin minte, imi doresc sa spun niste chestii importante. Vreau sa imi cer scuze pentru toate momentele proaste care le creez, pentru toate datile in care poate te am ranit, in care te am facut sa te simti nasol sau sa plangi, in adancul sufletului meu iti doresc doar binele, mi l am dorit mereu si mi l voi dori in continuare mereu. Incerc mereu sa fac totul bine, sa te fac fericita si sa te simti iubita si in siguranta, stiu ca mai fac greseli dar imi doresc doar sa ti pun zambetul pe buze. Am gresit de multe ori dar ma bucur ca mereu am gasit o cale de a rezolva, si de a nu a ne da batuti. Esti cea mai buna iubita si sunt cel mai norocos om din toata lumea sa te am. Te iubesc din tot sufletul meu si inca o data imi cer scuze pentru toate datile in care poate nu am aratat ca o fac destul, dar sa stii ca eu tot o fac, chiar daca uneori n am arata si o fac chiar mult mai mult decat crezi. Insemni absolut totul pentru mine sinvei fi mereu pe primul loc. Mereu vei purta inima mea la gat, prin acel lantisor, si o vei purta mereu si langa inima ta si sper ca simti asta. Te iubesc cel mai mult ma iubita si te voi iubi mereu, pana la adanci batraneti, pentru totdeauna. Ma faci cel mai fericit!",
+        "letterTitle": "Love Letter 2"
+      },
+      {
+        "id": "n1788225310542imlm8",
+        "ts": 1788225310542,
+        "ico": "💌",
+        "sub": "\"Love Letter 1\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— Love you!",
+        "letterBody": "Hello iubita, asta e prima scrisoare care ti o scriu din nou, din cauza problemelor care au fost cu aplicatia. Imi doresc in acest love letter sa mi exprim toata iubirea mea fata de tine. Te iubesc pana la infinit si inapoi de un infinit de lri ma iubita si sper ca stii asta, esti perfecta din orice punct de vedere, esti frumoasa, esti isteata, absolut tot este perfect la tine, parul tau, ochii tai, buzele tale, genele sprancenele tot, de sus pana jos esti perfecta si asa vei fi mereu in ochii mei. Esti iubitoare si grijulie, esti tot ceea ce si ar dori orice baiat, iar eu sunt cel mai norocos sa te am, esti cea mai buna iubita din toata lumea si oricine si ar dori o fata ca tine, esti absolut perfecta. Imi doresc sa ti spun ca voi fi aici alaturi pentru tine mereu, si la bine si la rau, asa cum am fost si pana acum, asa voi fi mereu, te voi sustine la fel de mult ca pana acum, si voi fi mereu cel mai mandru de tine, pentru ca ma faci mereu mandru. Te iubesc, meriti doar iubire si eu sunt aici sa ti ofer toata iubirea pe care o pot oferi, si incerc sa ofer din ce in ce mai multa mereu, in fiecare zi. Stiu ca mai avem problemele noastre, dar ma bucur ca mereu le putem rezolva si ca mereu ajungem sa ne impacam. Insemni totul pentru mine si tin cel mai mult la tine, tin la tine ca la ochii din cap si as face orice pentru tine, as cobora si luna pentru tine daca as putea. Te iubesc.",
+        "letterTitle": "Love Letter 1"
+      },
+      {
+        "id": "n1787955333466gz0l8",
+        "ts": 1787955333466,
+        "ico": "💌",
+        "sub": "\"Short Note 30\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Ma simt ca un copil mic prin preajma ta",
+        "letterTitle": "Short Note 30"
+      },
+      {
+        "id": "n17879553086190zcmv",
+        "ts": 1787955308619,
+        "ico": "💌",
+        "sub": "\"Short Note 29\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Stiu ca uneori te mai enervez, dar te iubesc din tot sufletul meu",
+        "letterTitle": "Short Note 29"
+      },
+      {
+        "id": "n1787955282134yodq9",
+        "ts": 1787955282134,
+        "ico": "💌",
+        "sub": "\"Short Note 28\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Imi pare rau pentru toate datile in care te am suparat",
+        "letterTitle": "Short Note 28"
+      },
+      {
+        "id": "n1787955255585iptb0",
+        "ts": 1787955255585,
+        "ico": "💌",
+        "sub": "\"Short Note 27\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Iubirea mea pentru tine create din ce in ce mai mult in fiecare zi",
+        "letterTitle": "Short Note 27"
+      },
+      {
+        "id": "n17879552316610w2wl",
+        "ts": 1787955231661,
+        "ico": "💌",
+        "sub": "\"Short Note 26\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Imi doresc sa am mereu grija de tine",
+        "letterTitle": "Short Note 26"
+      },
+      {
+        "id": "n17879552085663dp9e",
+        "ts": 1787955208566,
+        "ico": "💌",
+        "sub": "\"Short Note 25\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Iubesc cand te joci in parul meu",
+        "letterTitle": "Short Note 25"
+      },
+      {
+        "id": "n1787955183234xwhu2",
+        "ts": 1787955183234,
+        "ico": "💌",
+        "sub": "\"Short Note 24\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Imi place cel mai mult cand ma tii in brate",
+        "letterTitle": "Short Note 24"
+      },
+      {
+        "id": "n1787955027790pbwuy",
+        "ts": 1787955027790,
+        "ico": "💌",
+        "sub": "\"Short Note 23\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Mereu cand ma uit in ochii tai, imi imaginez viitorul nostru impreuna",
+        "letterTitle": "Short Note 23"
+      },
+      {
+        "id": "n1787954996292o64gd",
+        "ts": 1787954996292,
+        "ico": "💌",
+        "sub": "\"Short Note 22\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "O sa avem cei mai frumosi copii",
+        "letterTitle": "Short Note 22"
+      },
+      {
+        "id": "n1787954969701s5ytb",
+        "ts": 1787954969701,
+        "ico": "💌",
+        "sub": "\"Short Note 21\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Imi doresc sa imi petrec tot timpul din lume alaturi de tine",
+        "letterTitle": "Short Note 21"
+      },
+      {
+        "id": "n1787954937985e1v5p",
+        "ts": 1787954937985,
+        "ico": "💌",
+        "sub": "\"Short Note 20\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Am cea mai mare incredere in tine",
+        "letterTitle": "Short Note 20"
+      },
+      {
+        "id": "n1787954847161gnspw",
+        "ts": 1787954847161,
+        "ico": "💌",
+        "sub": "\"Short Note 19\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Sunt aici langa tine mereu",
+        "letterTitle": "Short Note 19"
+      },
+      {
+        "id": "n1787954825165mrk4m",
+        "ts": 1787954825165,
+        "ico": "💌",
+        "sub": "\"Short Note 18\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Porti inima mea mereu la gat",
+        "letterTitle": "Short Note 18"
+      },
+      {
+        "id": "n1787954788103jx7ba",
+        "ts": 1787954788103,
+        "ico": "💌",
+        "sub": "\"Short Note 17\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Chiar si dupa ce abia ne vedem, mi se face dor de tine instant",
+        "letterTitle": "Short Note 17"
+      },
+      {
+        "id": "n1787954756615p34yh",
+        "ts": 1787954756615,
+        "ico": "💌",
+        "sub": "\"Short Note 16\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Iubesc parul tau blond si frumos",
+        "letterTitle": "Short Note 16"
+      },
+      {
+        "id": "n1787949567445bat7r",
+        "ts": 1787949567445,
+        "ico": "💌",
+        "sub": "\"Short Note 15\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Ai cei mai frumosi ochi",
+        "letterTitle": "Short Note 15"
+      },
+      {
+        "id": "n1787949522747qu6h2",
+        "ts": 1787949522747,
+        "ico": "💌",
+        "sub": "\"Short Note 15\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Ai cele mai juicy buze",
+        "letterTitle": "Short Note 15"
+      },
+      {
+        "id": "n17879494609955gvva",
+        "ts": 1787949460995,
+        "ico": "💌",
+        "sub": "\"Short Note 13\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Ma faci cel mai fericit om din lume",
+        "letterTitle": "Short Note 13"
+      },
+      {
+        "id": "n1787949374885fr9iv",
+        "ts": 1787949374885,
+        "ico": "💌",
+        "sub": "\"Short Note 12\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Te voi iubi mereu, pana la capatul vietii, si chiar si dupa",
+        "letterTitle": "Short Note 12"
+      },
+      {
+        "id": "n17879493419273uoq1",
+        "ts": 1787949341927,
+        "ico": "💌",
+        "sub": "\"Short Note 11\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Tu pentru mine insemni acasa",
+        "letterTitle": "Short Note 11"
+      },
+      {
+        "id": "n17879492786729n6ql",
+        "ts": 1787949278672,
+        "ico": "💌",
+        "sub": "\"Short Note 10\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "In ochii mei vei fi mereu perfecta",
+        "letterTitle": "Short Note 10"
+      },
+      {
+        "id": "n1787949254099cxhwo",
+        "ts": 1787949254099,
+        "ico": "💌",
+        "sub": "\"Short Note 9\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Esti cea mai buna iubita din lume",
+        "letterTitle": "Short Note 9"
+      },
+      {
+        "id": "n17879492177243ape7",
+        "ts": 1787949217724,
+        "ico": "💌",
+        "sub": "\"Short Note 8\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "De abia astept sa ne incepem viitorul de adulti impreuna",
+        "letterTitle": "Short Note 8"
+      },
+      {
+        "id": "n1787949187808ytrbl",
+        "ts": 1787949187808,
+        "ico": "💌",
+        "sub": "\"Short Note 7\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Esti si vei fi mereu in inima mea",
+        "letterTitle": "Short Note 7"
+      },
+      {
+        "id": "n1787949159281jqyv4",
+        "ts": 1787949159281,
+        "ico": "💌",
+        "sub": "\"Short Note 6\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Ma bucur ca ai intrat in viata mea",
+        "letterTitle": "Short Note 6"
+      },
+      {
+        "id": "n1787949107029hk56z",
+        "ts": 1787949107029,
+        "ico": "💌",
+        "sub": "\"Short Note 5\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Esti si vei fi mereu in inima mea",
+        "letterTitle": "Short Note 5"
+      },
+      {
+        "id": "n17879490815419ljnd",
+        "ts": 1787949081541,
+        "ico": "💌",
+        "sub": "\"Short Note 4\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Sunt cel mai mandru de tine",
+        "letterTitle": "Short Note 4"
+      },
+      {
+        "id": "n1787949046763zw084",
+        "ts": 1787949046763,
+        "ico": "💌",
+        "sub": "\"Short Note 3\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Tin cel mai mult la tine",
+        "letterTitle": "Short Note 3"
+      },
+      {
+        "id": "n1787949018633i3gs8",
+        "ts": 1787949018633,
+        "ico": "💌",
+        "sub": "\"Short Note 2\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Esti cea mai importanta pentru mine",
+        "letterTitle": "Short Note 2"
+      },
+      {
+        "id": "n1787948991530iq2na",
+        "ts": 1787948991530,
+        "ico": "💌",
+        "sub": "\"Short Note 1\" — just arrived",
+        "read": false,
+        "type": "letter",
+        "title": "New letter from Robert",
+        "icoClass": "rose",
+        "dismissed": true,
+        "letterSig": "— 🩷",
+        "letterBody": "Te iubesc enorm de mult ma iubita",
+        "letterTitle": "Short Note 1"
+      }
+    ],
+    "shopMood": true,
+    "bestStreak": 22,
+    "favourites": [
+      {
+        "sig": "— Always yours, Robert 🌹",
+        "body": "There are moments in every ordinary day — a misheard lyric, a clumsy coincidence, something small and weightless — when my first instinct is still to turn and tell you.<br><br>I miss your laugh specifically. Not just laughter — <em>yours</em>. The way it starts reluctant, like it's trying to stay small, and then escapes you entirely.<br><br>Save this for a quiet evening. Read it slowly. You deserve that unhurried kind of moment.",
+        "from": "From Robert",
+        "title": "Missing Your Laugh",
+        "savedDate": "May 15"
+      },
+      {
+        "sig": "— Under the same sky, Robert ✨",
+        "body": "Last night I counted three stars before the clouds came. Three felt like enough.<br><br>The first I named after your courage — the quiet kind that simply shows up. The second, your kindness. The third — the sound of my name in your voice. The specific way you say it. Like it matters.<br><br>Three stars. More than enough.",
+        "from": "From Robert",
+        "title": "Counting Stars",
+        "savedDate": "May 12"
+      },
+      {
+        "sig": "— Thinking of you always, Robert ☀️",
+        "body": "Saturday mornings used to feel like waiting for something that never quite arrived.<br><br>Now they feel like potential. Like the specific kind of quiet that's not empty — it's holding its breath.<br><br>Somewhere across the distance you're doing something ordinary. And somehow that's enough to make Saturday mornings feel like the best part of the week.",
+        "from": "From Robert",
+        "title": "Saturday Morning",
+        "savedDate": "May 10"
+      }
+    ],
+    "notifPrefs": {
+      "points": true,
+      "streak": true,
+      "letters": true,
+      "surprise": true,
+      "goodnight": true,
+      "milestone": true
+    },
+    "robertMood": {
+      "time": "Just now",
+      "emoji": "💭",
+      "label": "Missing You"
+    },
+    "updatesLog": [],
+    "activeTheme": "crimson",
+    "anaMessages": [],
+    "anaWishList": [],
+    "loveMapPins": [],
+    "sentLetters": [
+      {
+        "ts": 1788225939744,
+        "sig": "— Love you!",
+        "body": "In aceasta scrisoare, asta fiind a doua pe care o rescriu dar nu cu acelasi continut pentru ca nu il mai tin minte, imi doresc sa spun niste chestii importante. Vreau sa imi cer scuze pentru toate momentele proaste care le creez, pentru toate datile in care poate te am ranit, in care te am facut sa te simti nasol sau sa plangi, in adancul sufletului meu iti doresc doar binele, mi l am dorit mereu si mi l voi dori in continuare mereu. Incerc mereu sa fac totul bine, sa te fac fericita si sa te simti iubita si in siguranta, stiu ca mai fac greseli dar imi doresc doar sa ti pun zambetul pe buze. Am gresit de multe ori dar ma bucur ca mereu am gasit o cale de a rezolva, si de a nu a ne da batuti. Esti cea mai buna iubita si sunt cel mai norocos om din toata lumea sa te am. Te iubesc din tot sufletul meu si inca o data imi cer scuze pentru toate datile in care poate nu am aratat ca o fac destul, dar sa stii ca eu tot o fac, chiar daca uneori n am arata si o fac chiar mult mai mult decat crezi. Insemni absolut totul pentru mine sinvei fi mereu pe primul loc. Mereu vei purta inima mea la gat, prin acel lantisor, si o vei purta mereu si langa inima ta si sper ca simti asta. Te iubesc cel mai mult ma iubita si te voi iubi mereu, pana la adanci batraneti, pentru totdeauna. Ma faci cel mai fericit!",
+        "date": "Just now",
+        "read": true,
+        "type": "letter",
+        "title": "Love Letter 2"
+      },
+      {
+        "ts": 1788225310542,
+        "sig": "— Love you!",
+        "body": "Hello iubita, asta e prima scrisoare care ti o scriu din nou, din cauza problemelor care au fost cu aplicatia. Imi doresc in acest love letter sa mi exprim toata iubirea mea fata de tine. Te iubesc pana la infinit si inapoi de un infinit de lri ma iubita si sper ca stii asta, esti perfecta din orice punct de vedere, esti frumoasa, esti isteata, absolut tot este perfect la tine, parul tau, ochii tai, buzele tale, genele sprancenele tot, de sus pana jos esti perfecta si asa vei fi mereu in ochii mei. Esti iubitoare si grijulie, esti tot ceea ce si ar dori orice baiat, iar eu sunt cel mai norocos sa te am, esti cea mai buna iubita din toata lumea si oricine si ar dori o fata ca tine, esti absolut perfecta. Imi doresc sa ti spun ca voi fi aici alaturi pentru tine mereu, si la bine si la rau, asa cum am fost si pana acum, asa voi fi mereu, te voi sustine la fel de mult ca pana acum, si voi fi mereu cel mai mandru de tine, pentru ca ma faci mereu mandru. Te iubesc, meriti doar iubire si eu sunt aici sa ti ofer toata iubirea pe care o pot oferi, si incerc sa ofer din ce in ce mai multa mereu, in fiecare zi. Stiu ca mai avem problemele noastre, dar ma bucur ca mereu le putem rezolva si ca mereu ajungem sa ne impacam. Insemni totul pentru mine si tin cel mai mult la tine, tin la tine ca la ochii din cap si as face orice pentru tine, as cobora si luna pentru tine daca as putea. Te iubesc.",
+        "date": "Just now",
+        "read": true,
+        "type": "letter",
+        "title": "Love Letter 1"
+      },
+      {
+        "ts": 1787955333466,
+        "sig": "— 🩷",
+        "body": "Ma simt ca un copil mic prin preajma ta",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 30"
+      },
+      {
+        "ts": 1787955308619,
+        "sig": "— 🩷",
+        "body": "Stiu ca uneori te mai enervez, dar te iubesc din tot sufletul meu",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 29"
+      },
+      {
+        "ts": 1787955282134,
+        "sig": "— 🩷",
+        "body": "Imi pare rau pentru toate datile in care te am suparat",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 28"
+      },
+      {
+        "ts": 1787955255585,
+        "sig": "— 🩷",
+        "body": "Iubirea mea pentru tine create din ce in ce mai mult in fiecare zi",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 27"
+      },
+      {
+        "ts": 1787955231661,
+        "sig": "— 🩷",
+        "body": "Imi doresc sa am mereu grija de tine",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 26"
+      },
+      {
+        "ts": 1787955208566,
+        "sig": "— 🩷",
+        "body": "Iubesc cand te joci in parul meu",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 25"
+      },
+      {
+        "ts": 1787955183234,
+        "sig": "— 🩷",
+        "body": "Imi place cel mai mult cand ma tii in brate",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 24"
+      },
+      {
+        "ts": 1787955027790,
+        "sig": "— 🩷",
+        "body": "Mereu cand ma uit in ochii tai, imi imaginez viitorul nostru impreuna",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 23"
+      },
+      {
+        "ts": 1787954996292,
+        "sig": "— 🩷",
+        "body": "O sa avem cei mai frumosi copii",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 22"
+      },
+      {
+        "ts": 1787954969701,
+        "sig": "— 🩷",
+        "body": "Imi doresc sa imi petrec tot timpul din lume alaturi de tine",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 21"
+      },
+      {
+        "ts": 1787954937985,
+        "sig": "— 🩷",
+        "body": "Am cea mai mare incredere in tine",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 20"
+      },
+      {
+        "ts": 1787954847161,
+        "sig": "— 🩷",
+        "body": "Sunt aici langa tine mereu",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 19"
+      },
+      {
+        "ts": 1787954825165,
+        "sig": "— 🩷",
+        "body": "Porti inima mea mereu la gat",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 18"
+      },
+      {
+        "ts": 1787954788103,
+        "sig": "— 🩷",
+        "body": "Chiar si dupa ce abia ne vedem, mi se face dor de tine instant",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 17"
+      },
+      {
+        "ts": 1787954756616,
+        "sig": "— 🩷",
+        "body": "Iubesc parul tau blond si frumos",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 16"
+      },
+      {
+        "ts": 1787949567445,
+        "sig": "— 🩷",
+        "body": "Ai cei mai frumosi ochi",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 15"
+      },
+      {
+        "ts": 1787949522747,
+        "sig": "— 🩷",
+        "body": "Ai cele mai juicy buze",
+        "date": "Just now",
+        "read": false,
+        "type": "note",
+        "title": "Short Note 15"
+      },
+      {
+        "ts": 1787949460995,
+        "sig": "— 🩷",
+        "body": "Ma faci cel mai fericit om din lume",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 13"
+      },
+      {
+        "ts": 1787949374885,
+        "sig": "— 🩷",
+        "body": "Te voi iubi mereu, pana la capatul vietii, si chiar si dupa",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 12"
+      },
+      {
+        "ts": 1787949341927,
+        "sig": "— 🩷",
+        "body": "Tu pentru mine insemni acasa",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 11"
+      },
+      {
+        "ts": 1787949278672,
+        "sig": "— 🩷",
+        "body": "In ochii mei vei fi mereu perfecta",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 10"
+      },
+      {
+        "ts": 1787949254099,
+        "sig": "— 🩷",
+        "body": "Esti cea mai buna iubita din lume",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 9"
+      },
+      {
+        "ts": 1787949217724,
+        "sig": "— 🩷",
+        "body": "De abia astept sa ne incepem viitorul de adulti impreuna",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 8"
+      },
+      {
+        "ts": 1787949187808,
+        "sig": "— 🩷",
+        "body": "Esti si vei fi mereu in inima mea",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 7"
+      },
+      {
+        "ts": 1787949159281,
+        "sig": "— 🩷",
+        "body": "Ma bucur ca ai intrat in viata mea",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 6"
+      },
+      {
+        "ts": 1787949107029,
+        "sig": "— 🩷",
+        "body": "Esti si vei fi mereu in inima mea",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 5"
+      },
+      {
+        "ts": 1787949081541,
+        "sig": "— 🩷",
+        "body": "Sunt cel mai mandru de tine",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 4"
+      },
+      {
+        "ts": 1787949046763,
+        "sig": "— 🩷",
+        "body": "Tin cel mai mult la tine",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 3"
+      },
+      {
+        "ts": 1787949018633,
+        "sig": "— 🩷",
+        "body": "Esti cea mai importanta pentru mine",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 2"
+      },
+      {
+        "ts": 1787948991530,
+        "sig": "— 🩷",
+        "body": "Te iubesc enorm de mult ma iubita",
+        "date": "Just now",
+        "read": true,
+        "type": "note",
+        "title": "Short Note 1"
+      }
+    ],
+    "shopLoveMap": true,
+    "shopVIPPass": false,
+    "lastOpenDate": 1788231184525,
+    "shopWishList": true,
+    "themeUnlocks": {
+      "mono": true,
+      "rose": true,
+      "royal": true,
+      "golden": true,
+      "orange": true,
+      "sakura": true,
+      "crimson": true,
+      "emerald": true,
+      "starlight": true,
+      "turquoise": true
+    },
+    "currentStreak": 22,
+    "shopCountdown": true,
+    "shopDateNight": true,
+    "shopGoodNight": true,
+    "shopHotStreak": true,
+    "shopLuckySpin": true,
+    "shopMemoryJar": true,
+    "totalMoodsSet": 2,
+    "anaSuggestions": [],
+    "blastBestScore": 0,
+    "dateNightIdeas": [],
+    "hasSeenWelcome": true,
+    "memoryJarItems": [],
+    "photoOfDayData": null,
+    "robertWishList": [],
+    "shopCoupleSong": true,
+    "shopDailyBonus": true,
+    "shopPhotoOfDay": true,
+    "shopWriteToRob": true,
+    "totalPtsEarned": 37534,
+    "coupleGoalsList": [],
+    "shopCoupleGoals": true,
+    "totalLuckySpins": 6,
+    "blastGamesPlayed": 0,
+    "clickerBestScore": 133,
+    "currentLoveLangs": [
+      {
+        "name": "Words of Affirmation",
+        "color": "linear-gradient(90deg,#a02050,var(--rose))",
+        "value": 85,
+        "default": 85
+      },
+      {
+        "name": "Quality Time",
+        "color": "linear-gradient(90deg,#b08020,var(--gold))",
+        "value": 72,
+        "default": 72
+      },
+      {
+        "name": "Acts of Service",
+        "color": "linear-gradient(90deg,#208060,var(--mint))",
+        "value": 60,
+        "default": 60
+      },
+      {
+        "name": "Receiving Gifts",
+        "color": "linear-gradient(90deg,#6030a0,#c8a8f0)",
+        "value": 48,
+        "default": 48
+      },
+      {
+        "name": "Physical Touch",
+        "color": "linear-gradient(90deg,#a04060,#e898b8)",
+        "value": 35,
+        "default": 35
+      }
+    ],
+    "everChangedTheme": true,
+    "puzzleOfWeekData": null,
+    "shopDailyGiftBox": true,
+    "shopPuzzleOfWeek": true,
+    "shopStreakShield": true,
+    "totalLettersSent": 32,
+    "dailyQuestionData": null,
+    "shopCountdownData": null,
+    "shopDailyQuestion": true,
+    "shopGoodNightTime": "22:00",
+    "shopVIPPassExpiry": null,
+    "achievementRewards": {},
+    "blastLifetimeScore": 0,
+    "clickerGamesPlayed": 1,
+    "earnedAchievements": {
+      "map-5": 1787770541391,
+      "jar-10": 1787770539983,
+      "shop-5": 1787770433027,
+      "wish-5": 1787770542342,
+      "gift-15": 1787833285990,
+      "pts-500": 1787770401063,
+      "shop-10": 1787770433027,
+      "shop-15": 1787770433027,
+      "spin-15": 1787833383048,
+      "bonus-15": 1787833277194,
+      "mood-set": 1787769759974,
+      "pts-1000": 1787770401063,
+      "pts-2500": 1787770401415,
+      "pts-5000": 1787770405022,
+      "shop-all": 1787770433027,
+      "streak-3": 1787770523606,
+      "streak-7": 1787770523980,
+      "jar-first": 1787770539245,
+      "map-first": 1787770540775,
+      "night-owl": 1787770522573,
+      "pts-10000": 1787770413289,
+      "streak-14": 1787770524538,
+      "game-first": 1787770527261,
+      "goal-3done": 1787770543956,
+      "goal-first": 1787770543603,
+      "letters-10": 1787770518756,
+      "letters-25": 1787955208563,
+      "reply-sent": 1787770523176,
+      "shop-first": 1787770433027,
+      "wish-first": 1787770541684,
+      "blast-first": 1787770529892,
+      "shield-used": 1787833402511,
+      "first-letter": 1787770518211,
+      "rob-mood-set": 1787769757099,
+      "game-score-1k": 1787770527710,
+      "game-score-5k": 1787770528201,
+      "puzzle-solved": 1787770548628,
+      "theme-changed": 1787770448689,
+      "blast-score-1k": 1787770530569,
+      "blast-score-5k": 1787833134748,
+      "game-played-10": 1787770529462,
+      "blast-played-10": 1787833133959,
+      "game-lifetime-25k": 1787770528798,
+      "question-answered": 1787770549185,
+      "blast-lifetime-25k": 1787833134378
+    },
+    "loveblastEquippedFx": "lb_fx_confetti",
+    "shopAnniversaryCard": true,
+    "totalBonusesClaimed": 6,
+    "clickerEquippedCombo": "ck_combo_sparkle",
+    "clickerEquippedHeart": "ck_heart_diamond",
+    "clickerLifetimeScore": 133,
+    "relationshipTimeline": [],
+    "streakShieldUsedDate": null,
+    "totalGiftBoxesOpened": 6,
+    "clickerOwnedCosmetics": [
+      "ck_heart_diamond",
+      "ck_heart_rainbow",
+      "ck_combo_trail",
+      "ck_combo_sparkle"
+    ],
+    "relationshipStartDate": null,
+    "shopLuckySpinLastUsed": "2026-09-01",
+    "loveblastEquippedColor": "lb_color_candy",
+    "loveblastEquippedShape": "lb_shape_hearts",
+    "goodnightLetterNextDate": null,
+    "loveblastOwnedCosmetics": [
+      "lb_color_candy",
+      "lb_color_starry",
+      "lb_color_rosegold",
+      "lb_shape_hearts",
+      "lb_shape_stars",
+      "lb_fx_sparkle",
+      "lb_fx_confetti"
+    ],
+    "shopDailyGiftLastClaimed": "2026-09-01",
+    "shopDailyBonusLastClaimed": "2026-09-01"
+  }
+}
